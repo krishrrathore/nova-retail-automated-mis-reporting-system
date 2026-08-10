@@ -211,7 +211,6 @@ Being upfront about the limits:
 - **Excel:** Power Query, Excel Tables, SUMIFS, INDEX-MATCH, PivotTables, conditional
   formatting, named ranges
 - **Power BI:** data modeling, DAX, dashboard
-- **Python:** used for the data preparation steps behind the scenes
 
 ## Files
 
