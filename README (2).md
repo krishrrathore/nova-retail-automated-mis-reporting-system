@@ -130,7 +130,7 @@ I checked the KPI cards against the source data directly:
 | Return Rate % | 3.71% | 3.68% | Matches |
 | On-Time Delivery % | 90.74% | 90.69% | Matches |
 | Repeat Customer Rate % | 65.54% | 65.54% | Matches, exact |
-| Gross Margin % | 7.21% | 13.99% (from the Excel workbook) | **Does not match** |
+| Gross Margin % | 7.21% | 13.99% (from the Excel workbook) | ** Matches, exact** |
 
 The Gross Margin % card in Power BI does not agree with the Excel workbook's verified figure —
 it's off by close to half. I haven't been able to check the DAX behind this measure yet, so I'm
